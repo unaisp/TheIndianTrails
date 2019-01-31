@@ -27,5 +27,7 @@
 | 1     | 2017 July 29	 | 1        | Sagargad Fort, Alibaug, trekking     |
 
 ## Treks to Do
-[Andharban](treks/andharban.md)
+1. [Andharban](treks/andharban.md)
+2. Vasota
+3. Harischandragad - Ratangad - Sandhan Valley
 
