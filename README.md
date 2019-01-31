@@ -2,13 +2,13 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
-| 23    | 2019 January 12| 2        |	Kalvantin Durg - Prabalgad Fort - Irshalwadi   |
-| 22    | 2018 November 25|1        |	Rajmachi - Kondana caves             |
+| 23    | 2019 January 12| 1N 1D    |	Kalvantin Durg - Prabalgad Fort - Irshalwadi   |
+| 22    | 2018 November 25|1N 1D    |	Rajmachi - Kondana caves             |
 | 21    | 2018 November 4| 1        |	Duke's Nose trek, Lonavala           |
 | 20    | 2018 October 21| 1	      | Chanderi Fort, Badlapur              |
 | 19    | 2018 October 2 | 1	      | Ajoba Mountain Trek                  |
 | 18    | 2018 August 26 | 1        | Bhaja Caves, Visapur Fort, and Lohagad Fort  |
-| 17    | 2018 August 11 | 2	      | Naneghat trek                        |
+| 17    | 2018 August 11 | 2D       | Naneghat trek                        |
 | 16    | 2018 August 4	 | 1	      | Harihar fort trek                    |
 | 15    | 2018 July 28	 | 1	      | Bhimshankar trek                     |
 | 14    | 2018 July 15	 | 1	      | Peb fort, Matheran track route       |
