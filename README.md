@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 24    | 2019 February 3| 1        | Andharban forest & Devkund waterfall |
 | 23    | 2019 January 12| 1N 1D    |	Kalvantin Durg - Prabalgad Fort - Irshalwadi   |
 | 22    | 2018 November 25|1N 1D    |	Rajmachi - Kondana caves             |
 | 21    | 2018 November 4| 1        |	Duke's Nose trek, Lonavala           |
