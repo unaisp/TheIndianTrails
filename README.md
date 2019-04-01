@@ -32,7 +32,6 @@
 ## Treks to Do
 1. Rajgad
 2. 
-3. Harischandragad
 4. Ratangad - Sandhan Valley
 5. Salher-Salota-Mulher
 6. Vasota
