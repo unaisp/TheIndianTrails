@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 26    | 2019 March 31  | 1N 1D    | Harishchandragad                    |
 | 25    | 2019 March 17  | 1N 1D    | Bhairavgad fort trekking              |
 | 24    | 2019 February 3| 1        | Andharban forest & Devkund waterfall |
 | 23    | 2019 January 12| 1N 1D    |	Kalvantin Durg - Prabalgad Fort - Irshalwadi   |
