@@ -2,14 +2,15 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
-| 27    | 2019 April 5   | 1N1 D    | Harihar fort                      |
-| 26    | 2019 March 31  | 1N 1D    | Harishchandragad                    |
-| 25    | 2019 March 17  | 1N 1D    | Bhairavgad fort trekking              |
-| 24    | 2019 February 3| 1        | Andharban forest & Devkund waterfall |
-| 23    | 2019 January 12| 1N 1D    |	Kalvantin Durg - Prabalgad Fort - Irshalwadi   |
-| 22    | 2018 November 25|1N 1D    |	Rajmachi - Kondana caves             |
-| 21    | 2018 November 4| 1        |	Duke's Nose trek, Lonavala           |
-| 20    | 2018 October 21| 1	      | Chanderi Fort, Badlapur              |
+| 28    | 2019 April 5   | 1N1 D    | Harihar fort                      |
+| 27    | 2019 March 31  | 1N 1D    | Harishchandragad                    |
+| 26    | 2019 March 17  | 1N 1D    | Bhairavgad fort trekking              |
+| 25    | 2019 February 3| 1        | Andharban forest & Devkund waterfall |
+| 24    | 2019 January 12| 1N 1D    |	Kalvantin Durg - Prabalgad Fort - Irshalwadi   |
+| 23    | 2018 November 25|1N 1D    |	Rajmachi - Kondana caves             |
+| 22    | 2018 November 4| 1        |	Duke's Nose trek, Lonavala           |
+| 21    | 2018 October 21| 1	      | Chanderi Fort, Badlapur              |
+| 20    | 2018 October 7 | 1         | Kaas Plateau, Satara                 |
 | 19    | 2018 October 2 | 1	      | Ajoba Mountain Trek                  |
 | 18    | 2018 August 26 | 1        | Bhaja Caves, Visapur Fort, and Lohagad Fort  |
 | 17    | 2018 August 11 | 2D       | Naneghat trek                        |
