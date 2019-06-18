@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 29    | 2019 June 16   | 1        | Manikgad Fort, Panvel                |
 | 28    | 2019 April 5   | 1N1 D    | Harihar fort                      |
 | 27    | 2019 March 31  | 1N 1D    | Harishchandragad                    |
 | 26    | 2019 March 17  | 1N 1D    | Bhairavgad fort trekking              |
