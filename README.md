@@ -2,6 +2,8 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 31    | 2019 July 07   | 1        | Bhaja Caves & Visapur Fort           | 
+| 30    | 2019 June 23   | 1        | Irshalgad fort                       |
 | 29    | 2019 June 16   | 1        | Manikgad Fort, Panvel                |
 | 28    | 2019 April 5   | 1N1 D    | Harihar fort                      |
 | 27    | 2019 March 31  | 1N 1D    | Harishchandragad                    |
