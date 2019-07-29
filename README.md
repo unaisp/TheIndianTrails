@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 34    | 2019 July 28   | 1        | Karnala Fort                          |
 | 33    | 2019 July 26    | 2       | Matheran                             |
 | 32    | 2019 July 14    | 1       | Peb Fort                             |
 | 31    | 2019 July 07   | 1        | Bhaja Caves & Visapur Fort           | 
