@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 35    | 2019 Oct 06    | 1        | Harishchandragad Fort Trek           |
 | 34    | 2019 July 28   | 1        | Karnala Fort                          |
 | 33    | 2019 July 26    | 2       | Matheran                             |
 | 32    | 2019 July 14    | 1       | Peb Fort                             |
