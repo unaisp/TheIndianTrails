@@ -46,7 +46,8 @@
 5. Lingana (1D)
 6. Kothaligad
 7. Korigad
-8. 
+8. Dhak Bhairi
+9. Tikona Fort
 
 what I missed?
 
