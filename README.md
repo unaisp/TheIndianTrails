@@ -39,9 +39,14 @@
 | 1     | 2017 July 29	 | 1        | Sagargad Fort, Alibaug, trekking     |
 
 ## Treks to Do
-1. Rajgad
-2. 
-4. Ratangad - Sandhan Valley
-5. Salher-Salota-Mulher
-6. Vasota
+1. Rajgad - Torna (2D)
+2. Salher-Salota-Mulher ( 2D / 3D)
+3. Vasota (2D)
+4. Raigad (1D / 2D)
+5. Lingana (1D)
+6. Kothaligad
+7. Korigad
+8. 
+
+what I missed?
 
