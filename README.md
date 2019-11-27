@@ -46,9 +46,10 @@
 4. Raigad (1D / 2D)
 5. Lingana (1D)
 6. Kothaligad
-7. Korigad
-8. Dhak Bhairi
-9. Tikona Fort
+7. Dhak Bhairi
+8. Tikona Fort
+9. Asherigad, Palghar
+10. Kaldrug, Palghar
 
 what I missed?
 
