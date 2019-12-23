@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 38    | 2019 Dec 22    | 1        | Kothaligad (Peth) Fort, Karjat       |
 | 37    | 2019 Dec 14    | 2        | Matheran                             |
 | 36    | 2019 Nov 24    | 1        | Korigad Fort, Lonavala               |
 | 35    | 2019 Oct 06    | 1        | Harishchandragad Fort Trek           |
