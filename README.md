@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 39    | 2020 Jan 26    | 1N 1D    | Mahuli Fort, Asangaon                |
 | 38    | 2019 Dec 22    | 1        | Kothaligad (Peth) Fort, Karjat       |
 | 37    | 2019 Dec 14    | 2        | Matheran                             |
 | 36    | 2019 Nov 24    | 1        | Korigad Fort, Lonavala               |
