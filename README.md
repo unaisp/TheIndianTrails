@@ -2,12 +2,13 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 40    | 2020 Feb 08    | 1N 1D    | Nakhind - Peb Trek, Vangani          |
 | 39    | 2020 Jan 26    | 1N 1D    | Mahuli Fort, Asangaon                |
 | 38    | 2019 Dec 22    | 1        | Kothaligad (Peth) Fort, Karjat       |
 | 37    | 2019 Dec 14    | 2        | Matheran                             |
 | 36    | 2019 Nov 24    | 1        | Korigad Fort, Lonavala               |
 | 35    | 2019 Oct 06    | 1        | Harishchandragad Fort Trek           |
-| 34    | 2019 July 28   | 1        | Karnala Fort                          |
+| 34    | 2019 July 28   | 1        | Karnala Fort                         |
 | 33    | 2019 July 26    | 2       | Matheran                             |
 | 32    | 2019 July 14    | 1       | Peb Fort                             |
 | 31    | 2019 July 07   | 1        | Bhaja Caves & Visapur Fort           | 
