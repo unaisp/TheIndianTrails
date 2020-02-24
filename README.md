@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 41    | 2020 Feb 23    | 1N 1D    | Naneghat and Jividhan Fort           |
 | 40    | 2020 Feb 08    | 1N 1D    | Nakhind - Peb Trek, Vangani          |
 | 39    | 2020 Jan 26    | 1N 1D    | Mahuli Fort, Asangaon                |
 | 38    | 2019 Dec 22    | 1        | Kothaligad (Peth) Fort, Karjat       |
