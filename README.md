@@ -2,6 +2,10 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 45    | 2021 Aug 26-28 | 3D       | Ratangad - Kumshet - Harsichandragad |    
+| 44    | 2021 Aug 25    | 1D 1N    | Ratangad Fort Trekking               |
+| 43    | 2021 Aug 24    | 1D 1N    | Kaslubai Trekking                    |
+| 42    | 2021 Aug 22-23 | 2D 1N    | Harihar Fort, Nasik                  |          
 | 41    | 2020 Feb 23    | 1N 1D    | Naneghat and Jividhan Fort           |
 | 40    | 2020 Feb 08    | 1N 1D    | Nakhind - Peb Trek, Vangani          |
 | 39    | 2020 Jan 26    | 1N 1D    | Mahuli Fort, Asangaon                |
