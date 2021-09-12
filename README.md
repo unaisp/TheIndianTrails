@@ -56,6 +56,7 @@
 5. Lingana (1D)
 6. Tikona Fort
 7. Asherigad and Kaldrug, Palghar
+8. Lobhi ( Lonavala to Bhimashankar)
 
 what I missed?
 
