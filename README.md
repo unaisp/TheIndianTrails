@@ -2,18 +2,19 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
-| 46    | 2022 Jun 26    | 1        | Kalavantin Durg, Panvel              |
-| 45    | 2021 Aug 26-28 | 3D       | Ratangad - Kumshet - Harsichandragad |    
-| 44    | 2021 Aug 25    | 1D 1N    | Ratangad Fort Trekking               |
-| 43    | 2021 Aug 24    | 1D 1N    | Kaslubai Trekking                    |
-| 42    | 2021 Aug 22-23 | 2D 1N    | Harihar Fort, Nasik                  |          
-| 41    | 2020 Feb 23    | 1N 1D    | Naneghat and Jividhan Fort           |    
-| 40    | 2020 Feb 08    | 1N 1D    | Nakhind - Peb Trek, Vangani          |
-| 39    | 2020 Jan 26    | 1N 1D    | Mahuli Fort, Asangaon                |
-| 38    | 2019 Dec 22    | 1        | Kothaligad (Peth) Fort, Karjat       |
-| 37    | 2019 Dec 14    | 2        | Matheran                             |
-| 36    | 2019 Nov 24    | 1        | Korigad Fort, Lonavala               |
-| 35    | 2019 Oct 06    | 1        | Harishchandragad Fort Trek           |
+| 47    | 2022 July 03     | 1      | Peb Fort, Neral
+| 46    | 2022 June 26    | 1        | Kalavantin Durg, Panvel              |
+| 45    | 2021 August 26-28 | 3D       | Ratangad - Kumshet - Harsichandragad |    
+| 44    | 2021 August 25    | 1D 1N    | Ratangad Fort Trekking               |
+| 43    | 2021 August 24    | 1D 1N    | Kaslubai Trekking                    |
+| 42    | 2021 August 22-23 | 2D 1N    | Harihar Fort, Nasik                  |          
+| 41    | 2020 February 23    | 1N 1D    | Naneghat and Jividhan Fort           |    
+| 40    | 2020 February 08    | 1N 1D    | Nakhind - Peb Trek, Vangani          |
+| 39    | 2020 January 26    | 1N 1D    | Mahuli Fort, Asangaon                |
+| 38    | 2019 December 22    | 1        | Kothaligad (Peth) Fort, Karjat       |
+| 37    | 2019 December 14    | 2        | Matheran                             |
+| 36    | 2019 November 24    | 1        | Korigad Fort, Lonavala               |
+| 35    | 2019 Octber 06    | 1        | Harishchandragad Fort Trek           |
 | 34    | 2019 July 28   | 1        | Karnala Fort                         |
 | 33    | 2019 July 26    | 2       | Matheran                             |
 | 32    | 2019 July 14    | 1       | Peb Fort                             |
