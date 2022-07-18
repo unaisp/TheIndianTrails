@@ -2,6 +2,8 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 49    | 2022 July 17   | 1        | Matheran - Sunset Point - Dhodhani village trekking |
+| 48    | 2022 July 16   | 1        | Garbett Plateau Trekking             | 
 | 47    | 2022 July 03     | 1      | Peb Fort, Neral
 | 46    | 2022 June 26    | 1        | Kalavantin Durg, Panvel              |
 | 45    | 2021 August 26-28 | 3D       | Ratangad - Kumshet - Harsichandragad |    
