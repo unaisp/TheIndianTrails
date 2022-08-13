@@ -2,6 +2,7 @@
 ## Trekking in Sahyadri
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
+| 50    | 2022 August 06 | 2        | Khandas - Bhimashankar - Ahupe - Khopivali Trekking |
 | 49    | 2022 July 17   | 1        | Matheran - Sunset Point - Dhodhani village trekking |
 | 48    | 2022 July 16   | 1        | Garbett Plateau Trekking             | 
 | 47    | 2022 July 03     | 1      | Peb Fort, Neral
