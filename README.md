@@ -1,5 +1,5 @@
 # TheIndianTrails
-## Trekking in Sahyadri
+## Treks I have done in Sahradri Mountain Range
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
 | 50    | 2022 August 06 | 2        | Khandas - Bhimashankar - Ahupe - Khopivali Trekking |
