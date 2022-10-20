@@ -1,8 +1,19 @@
 # TheIndianTrails
-fb: https://www.facebook.com/muhammedunais.p
-youtube: https://youtube.com/theindiantrails
+ 
 
-## Treks I have done in Sahradri Mountain Range
+### [![alt text][1.2]][1.1] [facebook.com/muhammedunais.p](https://www.facebook.com/muhammedunais.p)
+### Youtube: [The Indian Trails](https://www.youtube.com/theindiantrails])
+
+
+[1.1]: https://www.facebook.com/muhammedunais.p
+[2.1]: https://www.youtube.com/theindiantrails
+
+[1.2]: http://i.imgur.com/P3YfQoD.png
+
+
+
+
+## Treks I have done in Sahradri Mountain Ranges
 |       |    Date        | No. Days |                                      |
 | ----- | ---------------| ---------| -----------------------------------  |
 | 50    | 2022 August 06 | 2        | Khandas - Bhimashankar - Ahupe - Khopivali Trekking |
